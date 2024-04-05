@@ -1,4 +1,4 @@
-vimport json
+import json
 import time
 import random
 from locust import HttpUser, task, between
