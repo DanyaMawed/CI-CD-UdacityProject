@@ -54,6 +54,10 @@ git clone git@github.com:DanyaMawed/CI-CD-UdacityProject.git
  ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/Pipline%20screen.png)
 
 
+ ### locust log 
+![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/27039f26db7ecf21e80e6b97ee6405938141c721/locust%20log.png)
+
+
 
 ## Enhancements
 
