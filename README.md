@@ -1,20 +1,14 @@
 # Overview
 
 
-[![pipeline](https://github.com/DanyaMawed/CI-CD-UdacityProject/actions/workflows/python-app.yml/badge.svg)](https://github.com/DanyaMawed/CI-CD-UdacityProject/actions/workflows/python-app.yml)
-
-<TODO: complete this with an overview of your project>
-
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* [a link](https://docs.google.com/spreadsheets/d/19t-rdhJbaB3wmZ_VwUqVRomdojht7PFhSi0Op_Er668/edit?usp=sharing) to a spreadsheet that includes the original and final project plan>
+* [A link](https://trello.com/invite/b/al3DQVut/ATTId8fa10566d4cf16095e3915b8cb26c2471A00315/udacity-project) to a Trello board for the project
+* [A link](https://docs.google.com/spreadsheets/d/19t-rdhJbaB3wmZ_VwUqVRomdojht7PFhSi0Op_Er668/edit?usp=sharing) to a spreadsheet that includes the original and final project plan>
 
 
 ## Instructions
 
-<TODO:  
 * Architectural Diagram (Shows how key parts of the system work)>
 
 when the source code is pushed to Github, the GitHub Action is triggered for testing. In the meantime the Azure Pipeline is triggered for building the application and deplyong it to the Azure App Service.
@@ -65,6 +59,6 @@ make it in way that keep it an up to date project, in case someone tried to use 
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
+ Add link Screencast on YouTube>
 
 
