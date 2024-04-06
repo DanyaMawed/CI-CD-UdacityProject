@@ -9,7 +9,9 @@
 
 ## Instructions
 
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram
+
+   ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/b1c2a520d6e8d1c8303c0474849a4f544463287a/Project%20%20Diagram.png)
 
 when the source code is pushed to Github, the GitHub Action is triggered for testing. In the meantime the Azure Pipeline is triggered for building the application and deplyong it to the Azure App Service.
 
@@ -59,6 +61,6 @@ make it in way that keep it an up to date project, in case someone tried to use 
 
 ## Demo 
 
- Add link Screencast on YouTube>
+ [A Link](https://youtu.be/VkadLj0yA-g?si=UA7xtG7UtSAgSXYI) to Screencast on YouTube>
 
 
