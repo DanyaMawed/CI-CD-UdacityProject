@@ -43,19 +43,19 @@ git clone git@github.com:DanyaMawed/CI-CD-UdacityProject.git
  ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/github%20actions.png?raw=true)
 
 ### Project running on Azure App Service
-https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/webpage.png
+ ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/webpage.png)
 
 ### link My Agent with the VM
-https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/my%20Agebt%20pool%20linked%20with%20vm%20online.png
+ ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/my%20Agebt%20pool%20linked%20with%20vm%20online.png)
 
 
 ### Successful deploy of the project in Azure Pipelines
-https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/build%20job.png
+ ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/build%20job.png)
 
-https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/successful%20pipeline.png
+ ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/successful%20pipeline.png)
 
 ### Running Azure App Service from Azure Pipelines automatic deployment
-https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/Pipline%20screen.png
+ ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/Pipline%20screen.png)
 
 
 
