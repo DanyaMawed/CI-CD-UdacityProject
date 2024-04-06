@@ -1,6 +1,5 @@
 # Overview
 
-[![Python application test with Github Actions](https://github.com/DanyaMawed/CI-CD-UdacityProject/actions/workflows/python-app.yml/badge.svg)](https://github.com/DanyaMawed/CI-CD-UdacityProject/actions/workflows/python-app.yml)
 
 [![pipeline](https://github.com/DanyaMawed/CI-CD-UdacityProject/actions/workflows/python-app.yml/badge.svg)](https://github.com/DanyaMawed/CI-CD-UdacityProject/actions/workflows/python-app.yml)
 
@@ -10,7 +9,8 @@
 <TODO: Project Plan
 
 * A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* [a link](https://docs.google.com/spreadsheets/d/19t-rdhJbaB3wmZ_VwUqVRomdojht7PFhSi0Op_Er668/edit?usp=sharing) to a spreadsheet that includes the original and final project plan>
+
 
 ## Instructions
 
@@ -30,46 +30,38 @@ cat ~/.ssh/id_rsa.pub
 the genertaed ssh key should be add to the github account through Account settings then ssh and GPG key 
 
  ### 3-Clone the project from Github
+ ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/git%20clone.png?raw=true)
 
 ```
 git clone git@github.com:DanyaMawed/CI-CD-UdacityProject.git
 ```
+### make all 
+ ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/make%20all%20passed.png?raw=true)
+
 ## CI - CD
 ### git hub action test 
+ ![alt text](https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/github%20actions.png?raw=true)
 
-### Successful Pipeline build
+### Project running on Azure App Service
+https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/webpage.png
+
+### link My Agent with the VM
+https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/my%20Agebt%20pool%20linked%20with%20vm%20online.png
 
 
+### Successful deploy of the project in Azure Pipelines
+https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/build%20job.png
+
+https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/successful%20pipeline.png
+
+### Running Azure App Service from Azure Pipelines automatic deployment
+https://github.com/DanyaMawed/CI-CD-UdacityProject/blob/fe96e12f1c63f6d20a8a8c30bfa50aabde92876b/Pipline%20screen.png
 
 
-* Project running on Azure App Service
-
-* Project cloned into Azure Cloud Shell
-
-* Passing tests that are displayed after running the `make all` command from the `Makefile`
-
-* Output of a test run
-
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
-
-* Running Azure App Service from Azure Pipelines automatic deployment
-
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
-
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
-
-* Output of streamed log files from deployed application
-
-> 
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+make it in way that keep it an up to date project, in case someone tried to use it a year later will be able without facing issues 
 
 ## Demo 
 
