@@ -17,7 +17,30 @@
 <TODO:  
 * Architectural Diagram (Shows how key parts of the system work)>
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+when the source code is pushed to Github, the GitHub Action is triggered for testing. In the meantime the Azure Pipeline is triggered for building the application and deplyong it to the Azure App Service.
+
+## seting up Azure cloud shell:
+ ### 1-Open Azure cloud shell
+ ### 2-Generate a SHH Key and copy it to your Github Account
+
+```
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub
+```
+the genertaed ssh key should be add to the github account through Account settings then ssh and GPG key 
+
+ ### 3-Clone the project from Github
+
+```
+git clone git@github.com:DanyaMawed/CI-CD-UdacityProject.git
+```
+## CI - CD
+### git hub action test 
+
+### Successful Pipeline build
+
+
+
 
 * Project running on Azure App Service
 
